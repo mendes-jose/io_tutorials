@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>chatter</name>
+  <version>0.0.1</version>
+  <description>The chatter package from ROS tutorials</description>
+
+  <maintainer email="mendesfilho@protonmail.com">José MENDES FILHO</maintainer>
+
+  <license>GLP3</license>
+
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
