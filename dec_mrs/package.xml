@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>chatter</name>
+  <name>dec_mrs</name>
   <version>0.0.1</version>
-  <description>The chatter package from ROS tutorials</description>
+  <description>The dec_mrs package from ROS tutorials</description>
 
   <maintainer email="mendesfilho@protonmail.com">José MENDES FILHO</maintainer>
 
